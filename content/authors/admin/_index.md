@@ -81,4 +81,5 @@ highlight_name: false
 ---
 
 Tae-Ung Choi is an assistant professor of management at the HKUST. His current research is organized around three interrelated streams: (1) theorizing and modeling strategic interactions at the interface between stakeholders and organizations that have and act on varied understandings about the relevance of non-market issues, (2) advancing a dynamic view of how organizations and social movements influence each other, and (3) investigating nuanced effects of transparency as a mechanism to hold organizations accountable. Taken together, these streams constitute a research program that provides insight into why and how organizations address social issues and how those inside and outside organizations might effectively change their targets.
+
 {style="text-align: justify;"}
