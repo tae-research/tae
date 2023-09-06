@@ -39,7 +39,7 @@ education:
     - course: MS in Management
       institution: Yonsei University
       year: 2017
-    - course: BBA
+    - course: Bachelor of Business Administration
       institution: Yonsei University
       year: 2014
 
