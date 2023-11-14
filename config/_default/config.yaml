@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tae-Ung Choi # Website name
-baseURL: 'tae-choi.netlify.app' # Website URL
+baseURL: 'tae-choi.com' # Website URL
 
 ############################
 ## LANGUAGE
